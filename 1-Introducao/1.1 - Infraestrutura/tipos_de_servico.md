@@ -1,6 +1,7 @@
-# Infraestrutura como Serviço (IAAS)
- Sao recursos e servicos onde nos clientes iremos nos envolver mais. Crie uma infraestrutura de TI de pagamento conforme o uso alugando servidores, maquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor de nuvem
- CLiente envolve mais, porem tem muito mais controle. 
+# Infraestrutura como Serviço (IAAS)   
+ Sao recursos e servicos onde nos clientes iremos nos envolver mais. Crie uma infraestrutura de TI de pagamento conforme o uso alugando servidores, maquinas virtuais, armazenamento, redes e sistemas operacionais de um 
+ provedor de nuvem
+ Cliente envolve mais, porem tem muito mais controle. Servico de nuvem mais flexivel, te da mais poderees, gerenciamenteo de plataforma é realizado pelo provedor de nuvem. 
  - Servidores e Armazemanentos
  - Firewalls/Segurança de rede
  - Planta Fisica/edificio do datacenter
@@ -13,7 +14,7 @@
  - Analise de Negocios
 
 # Software como serviço (SAAS)
- Nesse engloba PAAS e IAAS. Os Usuarios se conectam e usam aplicativos com base em nuvem pela internet.
+ Nesse engloba PAAS e IAAS. Os Usuarios se conectam e usam aplicativos com base em nuvem pela internet. Licenciamento, paga pelo uso do software, modelo de assinatura.
  - Aplicativos
  - Apps Hospedados (TEAMS)
  - Email
