@@ -15,3 +15,6 @@ Disponibilidade: Expressa como porcentagem de tempo de atividade (por exemplo, 9
 Creditos de Serviço: Compensações oferecidas se o SLA não for cumprido.
 Monitoramento: Ferramentas como Azure Monitor ajudam a garantir que os SLAs sejam mantidos.
 
+![image](https://github.com/ftaveira-data/AZ-900/assets/115483835/d449dd16-a571-4a87-8d0c-5caa565b2419)
+
+
