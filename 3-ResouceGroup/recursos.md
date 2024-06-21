@@ -4,6 +4,8 @@ Nao se limita a uuma unica região.
 Posso migrar um recurso para outro grupo de recursos. Só nõa é possivel renoamear um novo grupo de recurso. 
 
 Os recursos podem existir em apenas um grupo de recursos, mas nao pode estar apontado em dois grupos diferentes. 
+Podem ser movidos para outros grupos de recursos.
+Os aplicativos podem utilziar vários grupos de recursos. 
 
 - VM 
 - Storage
