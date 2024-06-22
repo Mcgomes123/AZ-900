@@ -14,6 +14,8 @@ As regiões preservam a residência dos dados com uma oferta abrangente de confo
 
 # Níveis de Disponibilidade no Azure
 
+Os conjuntos de disponibilidade são compostos por domnios de atualização e domninios de falhas.
+
 ## Disponibilidade Local
 - **Descrição:** Proteção dentro de um único datacenter, utilizando servidores diferentes.
 - **Uso:** Proteção contra falhas de hardware no mesmo datacenter.
