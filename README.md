@@ -1,4 +1,4 @@
-Nesse repositório fiz o Fork do Cristiano, pois inicialemnte estava bem organizado para iniciar meus estudos para tirar a Certificação AZ 900. Fui adicionando mais arquivos Markdown em que fazia alguns resumos do curso de AZ 900 da Dio. 
+Repositório wm que fiz o Fork do repo disponibilizado pelo Cristiano, pois inicialemnte estava bem organizado para iniciar meus estudos para tirar a Certificação AZ 900. Fui adicionando mais arquivos Markdown em que fazia alguns resumos do curso de AZ 900 da Dio. 
 
 
 <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="25%"/>
