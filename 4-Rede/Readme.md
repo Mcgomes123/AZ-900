@@ -1,8 +1,46 @@
+# Gateway VPN
+
+O gateway de VPN é usado para enviar trafego criptografado entre uma rede virtual do Azure e uma no local pela internet publica. 
+
+O **Gateway VPN do Azure** permite que você configure uma conexão segura entre sua rede local e a rede virtual do Azure. Ele suporta dois tipos de VPN:
+
+## Tipos de VPN
+
+### VPN Point-to-Site (P2S)
+- **Descrição:** Permite conexões individuais de clientes para a rede do Azure.
+- **Uso:** Ideal para funcionários remotos que precisam acessar recursos no Azure.
+
+### VPN Site-to-Site (S2S)
+- **Descrição:** Cria uma conexão segura entre sua rede local e a rede do Azure.
+- **Uso:** Perfeito para conexões persistentes entre sua infraestrutura local e o Azure.
+
+## Características
+- **Segurança:** Criptografia IPsec/IKE.
+- **Alta Disponibilidade:** Pode ser configurado em uma arquitetura de alta disponibilidade.
+- **Gerenciamento:** Fácil configuração e gerenciamento via Portal do Azure.
+
+## Tipos de Gateways VPN
+- **Basic, Standard, HighPerformance, VpnGw1, VpnGw2, VpnGw3:** Diferentes níveis de desempenho e custo.
+
+## Passos Básicos para Configuração
+1. **Criar um gateway de rede virtual no Azure.**
+2. **Configurar a conexão VPN no dispositivo local.**
+3. **Estabelecer a conexão entre a rede local e a VNet do Azure.**
+
+Para mais informações detalhadas, consulte a [documentação oficial do Azure VPN Gateway](https://learn.microsoft.com/pt-br/azure/vpn-gateway/vpn-gateway-about-vpngateways).
+
+
+![image](https://github.com/ftaveira-data/AZ-900/assets/115483835/d1bf457e-d595-4868-8118-f1c3bda353d8)
+
+
+
 # Express Route
 
 Se você precisa trafegar uma quantidade muito grande de dados emtre sua infra local e o Azure(ou qualquer outro cloud), você pode estar fazendo o uso do Express Route, que basicamente é uma forma de fazer um link direto do seu ponto até o data center do Azure, esse passo custa um pouco caro, mas é mais fácil que trafegar pela internet. Ponsto importante é que essas configurações são feitas do lado do Azure e do seu provedor de inetrnet.
 
 ![-](https://docs.microsoft.com/pt-br/azure/architecture/reference-architectures/hybrid-networking/images/expressroute.png)
+
+![image](https://github.com/ftaveira-data/AZ-900/assets/115483835/2b86b8a1-727f-4757-abfb-024244327917)
 
 # V-NET
 
