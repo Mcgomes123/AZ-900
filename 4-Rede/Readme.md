@@ -1,3 +1,26 @@
+# DNS do AZure
+
+O **DNS do Azure** é um serviço de hospedagem para domínios DNS, permitindo que você gerencie e resolva nomes de domínio em infraestrutura do Azure. Ele fornece alta disponibilidade e desempenho, juntamente com a capacidade de gerenciar registros DNS de forma fácil e segura.
+
+## Características Principais
+- **Alta Disponibilidade:** O serviço é distribuído globalmente, garantindo alta disponibilidade.
+- **Desempenho Rápido:** Resolução de nomes rápida utilizando a infraestrutura global da Microsoft.
+- **Segurança:** Integração com o Azure Active Directory para controle de acesso baseado em funções.
+- **Facilidade de Gerenciamento:** Gerenciamento de registros DNS através do portal do Azure, CLI, ou API REST.
+
+## Tipos de Zonas DNS
+- **Zona DNS Privada:** Usada para gerenciar e resolver nomes de domínio dentro de uma rede virtual.
+- **Zona DNS Pública:** Usada para gerenciar e resolver nomes de domínio acessíveis pela Internet.
+
+## Casos de Uso Comuns
+- **Gerenciamento de Nomes de Domínio:** Hospedar domínios DNS e gerenciar registros.
+- **Integração com Outros Serviços do Azure:** Configurar registros DNS para serviços como Web Apps, VMs, e outros recursos do Azure.
+- **Resolução de Nomes Privados:** Gerenciar nomes de domínio dentro de uma rede virtual, sem expô-los à Internet.
+
+## Links Úteis
+Para mais informações detalhadas, consulte a [documentação oficial do Azure DNS](https://learn.microsoft.com/pt-br/azure/dns/dns-overview).
+
+
 # Gateway VPN
 
 O gateway de VPN é usado para enviar trafego criptografado entre uma rede virtual do Azure e uma no local pela internet publica. 
