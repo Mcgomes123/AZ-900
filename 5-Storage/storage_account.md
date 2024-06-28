@@ -5,6 +5,8 @@
  - Fornecer acesso a internet em todo o mundo
  - determinar os serviços de armazenamento e as opções de redundância.
 
+   
+
 A **Azure Storage Account** fornece serviços de armazenamento duráveis e escaláveis na nuvem. Ele oferece diferentes tipos de armazenamento para diversos cenários, como dados de blobs, filas, tabelas e arquivos.
 
 ## Tipos de Serviços de Armazenamento
@@ -68,6 +70,9 @@ A configuração de redundância no Azure Storage Account garante a alta disponi
 
 ## Links Úteis
 Para mais informações detalhadas, consulte a [documentação oficial do Azure Storage Redundancy](https://learn.microsoft.com/pt-br/azure/storage/common/storage-redundancy).
+
+![image](https://github.com/ftaveira-data/AZ-900/assets/115483835/68783416-5b02-4d53-8f0a-c11447c6df82)
+
 
 
 ![image](https://github.com/ftaveira-data/AZ-900/assets/115483835/e3334847-0e0d-47a1-8bbf-30034d78336a)
