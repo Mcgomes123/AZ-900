@@ -28,5 +28,47 @@ A **Azure Storage Account** fornece serviços de armazenamento duráveis e escal
 ## Links Úteis
 Para mais informações detalhadas, consulte a [documentação oficial do Azure Storage](https://learn.microsoft.com/pt-br/azure/storage/common/storage-account-overview).
 
+
+
+
+# Configuração de Redundância do Azure Storage Account
+
+A configuração de redundância no Azure Storage Account garante a alta disponibilidade e durabilidade dos dados. Existem várias opções de redundância disponíveis para atender diferentes necessidades de replicação e durabilidade.
+
+## Tipos de Redundância
+
+### Locally Redundant Storage (LRS)
+- **Descrição:** Replica dados três vezes dentro de um único datacenter.
+- **Uso:** Ideal para cenários onde os dados não precisam ser replicados em várias regiões.
+
+### Zone-Redundant Storage (ZRS)
+- **Descrição:** Replica dados em três zonas diferentes dentro de uma região.
+- **Uso:** Protege contra falhas de datacenter ou zona dentro de uma região.
+
+### Geo-Redundant Storage (GRS)
+- **Descrição:** Replica dados em uma região primária e, em seguida, replica de forma assíncrona para uma segunda região distante.
+- **Uso:** Garantia de durabilidade mesmo em desastres regionais.
+
+### Read-Access Geo-Redundant Storage (RA-GRS)
+- **Descrição:** Fornece todas as vantagens do GRS, além de permitir leitura dos dados na região secundária.
+- **Uso:** Alta disponibilidade de leitura em caso de indisponibilidade da região primária.
+
+### Geo-Zone-Redundant Storage (GZRS)
+- **Descrição:** Combina replicação entre zonas e entre regiões, replicando dados em várias zonas na região primária e em uma região secundária.
+- **Uso:** Maior resiliência contra falhas de zona e desastres regionais.
+
+### Read-Access Geo-Zone-Redundant Storage (RA-GZRS)
+- **Descrição:** Combina as vantagens do GZRS com a capacidade de leitura dos dados na região secundária.
+- **Uso:** Alta disponibilidade de leitura e proteção contra falhas de zona e desastres regionais.
+
+## Características
+- **Alta Disponibilidade:** Replicação dos dados para garantir acesso contínuo.
+- **Durabilidade:** Proteção contra perda de dados em casos de falhas ou desastres.
+- **Segurança:** Criptografia dos dados em repouso e em trânsito.
+
+## Links Úteis
+Para mais informações detalhadas, consulte a [documentação oficial do Azure Storage Redundancy](https://learn.microsoft.com/pt-br/azure/storage/common/storage-redundancy).
+
+
 ![image](https://github.com/ftaveira-data/AZ-900/assets/115483835/e3334847-0e0d-47a1-8bbf-30034d78336a)
 
