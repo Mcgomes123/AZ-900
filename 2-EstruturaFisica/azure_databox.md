@@ -42,4 +42,7 @@ O Azure Data Box oferece segurança robusta para garantir que os dados sejam pro
 - **Cadeia de Custódia**: Rastreamento completo do dispositivo desde o envio até o recebimento pela Microsoft.
 - **Apagamento de Dados**: Após o upload, os dados no dispositivo são apagados de acordo com os padrões de segurança da Microsoft.
 
+ ![image](https://github.com/ftaveira-data/AZ-900/assets/115483835/00ec6166-9480-4fae-a373-c92e43ff07a2)
+
+
 Para mais detalhes, consulte a [documentação oficial do Azure Data Box](https://learn.microsoft.com/pt-br/azure/databox/data-box-overview).
