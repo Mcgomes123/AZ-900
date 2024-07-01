@@ -1,4 +1,5 @@
-#AzCopy
+# AzCopy
+
 AzCopy é uma ferramenta de linha de comando fornecida pela Microsoft que permite transferir dados de e para as contas de armazenamento do Azure. É uma ferramenta robusta e eficiente para gerenciar a movimentação de grandes volumes de dados. Algumas características principais do AzCopy incluem:
 
 Transferências Rápidas: AzCopy é otimizado para transferências rápidas de grandes quantidades de dados, suportando operações de upload, download e cópia entre contas de armazenamento do Azure.
@@ -19,7 +20,9 @@ Copiar código
 azcopy copy 'c:\local\path\to\file.txt' 'https://<account>.blob.core.windows.net/<container>/file.txt'
 Para mais detalhes sobre os comandos disponíveis, você pode usar o comando azcopy --help.
 
-#Gerenciador de Armazenamento do Azure
+
+# Gerenciador de Armazenamento do Azure
+
 Azure Storage Explorer é uma ferramenta gráfica que facilita o gerenciamento dos recursos de armazenamento do Azure. Ele permite que você trabalhe com várias contas de armazenamento de maneira intuitiva e eficiente. As principais funcionalidades incluem:
 
 Interface Gráfica: Proporciona uma interface de usuário amigável para navegar, gerenciar e operar em blobs, filas, tabelas e arquivos.
