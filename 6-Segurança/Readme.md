@@ -28,3 +28,5 @@ No ambiente atual de TI, a segurança e o controle de acesso são cruciais para 
 
 #### Conclusão
 O acesso e a segurança no Azure são fundamentais para a proteção de dados e a manutenção da integridade dos sistemas. Utilizando ferramentas como Azure Active Directory, Azure Key Vault, e Azure Security Center, as organizações podem garantir que seus ambientes em nuvem estejam seguros e em conformidade com as melhores práticas de segurança e regulamentações.
+
+![image](https://github.com/user-attachments/assets/85437137-cd35-4afd-99a2-c1741791ec2b)
