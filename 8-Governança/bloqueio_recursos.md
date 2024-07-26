@@ -32,3 +32,6 @@ Os bloqueios podem ser aplicados em diferentes níveis hierárquicos, oferecendo
 - **Revisão Periódica**: Bloqueios devem ser revisados periodicamente para garantir que ainda são necessários e estão alinhados com os objetivos da organização.
 
 O bloqueio de recursos é uma prática essencial para garantir a segurança e integridade dos recursos no Azure, proporcionando uma camada adicional de controle e proteção.
+
+![image](https://github.com/user-attachments/assets/bd83a3dc-25d8-4d3a-b371-634bd9d8aa2d)
+
