@@ -34,3 +34,6 @@ Executa serviços de dados do Azure, como SQL Managed Instance e PostgreSQL Hype
 ## Documentação
 
 Para mais informações, consulte a [documentação do Azure Arc em português](https://learn.microsoft.com/pt-br/azure/azure-arc/overview).
+
+![image](https://github.com/user-attachments/assets/7a9bd500-9f27-4f21-8061-71ba886383ae)
+
